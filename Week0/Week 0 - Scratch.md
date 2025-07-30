@@ -21,6 +21,7 @@
 - Como visto anteriormente, a resolução de problemas ocorre através do da entrada (problema) que passa pelo processo responsável por transformar o problema em uma saída (solução). Esse processo é conhecido como **Algoritmos**; 
 
 - Os algoritmos são responsáveis por fragmentar os problemas a fim de soluciona-lo, em outras palavras, um algoritmo trata-se de uma descrição precisa passo a passo. Fazendo uma associação, um algoritmo nada mais é do que uma "receita de bolo" que transforma uma vontade(problema) em um bolo (saída);
+
 	<img src="Assets/Drawing 2025-07-29 23.11.42.excalidraw.svg">
 
 - No mundo da tecnologia, os algoritmos são responsáveis por indicar as ações que o dispositivo deve realizar,  onde esse mesmo algoritmo é escrito utilizando linguagem de programação (scripts);
