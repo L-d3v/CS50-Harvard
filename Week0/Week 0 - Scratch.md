@@ -5,7 +5,7 @@
 
 - A resolução de problemas consiste no **processo** de transformar uma "entrada" em uma "saída";
 
-	![[Drawing 2025-07-29 22.25.26.excalidraw.svg]]
+	<img src="Assets/Drawing 2025-07-29 22.25.26.excalidraw.svg">
 
 - Para que ocorra o processamento de informações,  em um contexto computacional, os dispositivos utilizam o sistema binário (0 e 1) como forma de representar "tudo". Em uma analogia simples, o sistema binário nos dispositivos se assemelham as lâmpadas controladas por interruptores, nessa analogia, os dispositivos possuem milhões/bilhões de interruptores responsáveis por controlar seu estado. Onde:
 	- Quando **desligado**, seu estado terá valor igual a 0;
@@ -21,7 +21,7 @@
 - Como visto anteriormente, a resolução de problemas ocorre através do da entrada (problema) que passa pelo processo responsável por transformar o problema em uma saída (solução). Esse processo é conhecido como **Algoritmos**; 
 
 - Os algoritmos são responsáveis por fragmentar os problemas a fim de soluciona-lo, em outras palavras, um algoritmo trata-se de uma descrição precisa passo a passo. Fazendo uma associação, um algoritmo nada mais é do que uma "receita de bolo" que transforma uma vontade(problema) em um bolo (saída);
-	![[Drawing 2025-07-29 23.11.42.excalidraw.svg]]
+	<img src="Assets/Drawing 2025-07-29 23.11.42.excalidraw.svg">
 
 - No mundo da tecnologia, os algoritmos são responsáveis por indicar as ações que o dispositivo deve realizar,  onde esse mesmo algoritmo é escrito utilizando linguagem de programação (scripts);
 
